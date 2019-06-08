@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "outDir": "./lib"
+  },
+  "exclude": ["node_modules/*"],
+  "include": ["src/*"]
+}
