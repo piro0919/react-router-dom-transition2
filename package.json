@@ -1,5 +1,8 @@
 {
   "author": "piro <piro.haniwa@gmail.com> (https://kk-web.link/)",
+  "bugs": {
+    "url": "https://github.com/piro0919/react-router-dom-transition2/issues"
+  },
   "description": "add transition to react-router-dom",
   "dependencies": {
     "@types/react": "16.8.19",
@@ -24,9 +27,13 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "name": "react-router-dom-transition2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piro0919/react-router-dom-transition2.git"
+  },
   "scripts": {
     "build": "tsc"
   },
   "types": "./lib/index.d.ts",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
