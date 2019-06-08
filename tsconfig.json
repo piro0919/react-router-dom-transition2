@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
+    "declaration": true,
     "jsx": "preserve",
     "lib": ["dom", "dom.iterable", "esnext"],
     "outDir": "./lib"
