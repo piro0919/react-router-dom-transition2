@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { SwitchProps } from "react-router-dom";
 export interface LoadingWrapperProps extends Pick<SwitchProps, "location"> {
     children?: React.ReactNode;

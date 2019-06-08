@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { matchPath, __RouterContext as RouterContext } from "react-router";
 import { SwitchProps as ReactRouterDomSwitchProps } from "react-router-dom";
 import LoadingWrapper, { LoadingWrapperProps } from "./LoadingWapper";

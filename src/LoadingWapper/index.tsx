@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import * as React from "react";
+import * as ReactDOM from "react-dom";
 import { SwitchProps } from "react-router-dom";
 
 export interface LoadingWrapperProps extends Pick<SwitchProps, "location"> {

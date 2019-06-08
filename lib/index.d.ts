@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { SwitchProps as ReactRouterDomSwitchProps } from "react-router-dom";
 import { LoadingWrapperProps } from "./LoadingWapper";
 export interface SwitchProps extends ReactRouterDomSwitchProps, Pick<LoadingWrapperProps, "transitionTime"> {
