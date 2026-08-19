@@ -25,6 +25,7 @@
     "transition"
   ],
   "license": "MIT",
+  "funding": "https://github.com/sponsors/piro0919",
   "main": "./lib/index.js",
   "name": "react-router-dom-transition2",
   "repository": {
